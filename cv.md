@@ -20,6 +20,12 @@ My studies at the university and further work had nothing to do with IT-technolo
     * VS Code
 
 ## Code
+```
+function multiply(a, b){
+  a * b
+}
+```
+
 
 
 ## Courses
